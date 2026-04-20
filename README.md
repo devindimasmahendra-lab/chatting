@@ -169,5 +169,5 @@ Proyek ini menggunakan lisensi MIT - lihat file LICENSE untuk detail.
 ---
 
 <p align="center">
-Dibuat dengan ❤️ untuk penggunaan internal perusahaan
+Powered By Devin Dimas Mahendra
 </p>
